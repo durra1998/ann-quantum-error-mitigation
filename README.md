@@ -2,7 +2,7 @@
 
 This repository presents a simulation-based investigation of machine learning–driven quantum error mitigation using artificial neural networks (ANNs). The work investigates how classical neural models can learn and reduce noise-induced distortions in quantum measurement outcomes on near-term (NISQ) quantum devices, without relying on quantum error correction.
 
-The project focuses on modeling depolarizing gate noise using Qiskit Aer and evaluating the effectiveness of **ordinary versus concatenated ANN architectures** for mitigating errors across increasing system sizes. The implementation emphasizes reproducibility, scalability analysis, and clear performance baselines.
+The project focuses on modeling depolarizing gate noise using Qiskit Aer and evaluating the effectiveness of **ordinary versus concatenated ANN architectures** for mitigating errors across increasing system sizes. 
 
 ---
 
